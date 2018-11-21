@@ -10,7 +10,7 @@ namespace SqlDBNativeComponent.Helper
         public const string OK = "Ok";
         public const string TRY_AGAIN = "Try again";
         public const string CANCEL = "Cancel";
-        public const string SUCCESS = "Success";
+        public const string SUCCESS = "Success ";
         public const string FAILURE = "Failure";
         public const string DOWNLOAD_ERROR = "Download Error";
         public const string CONNECTIVITY_ERROR = "Connectivity Error";
